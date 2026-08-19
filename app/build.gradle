@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.exemplo.meuapp'
+    namespace 'com.exemplo.relogio'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.exemplo.meuapp"
+        applicationId "com.exemplo.relogio"
         minSdk 24
         targetSdk 35
         versionCode 1
